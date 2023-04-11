@@ -1,0 +1,12 @@
+/* .mapbox {
+	position: absolute;
+	width: 100%;
+	top: 20;
+	bottom: 0 
+} */
+
+.spin {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+}
